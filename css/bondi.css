@@ -2,3 +2,9 @@ body{
 	background: silver;
 	font-family: "Roboto Mono", monospace;
 }
+
+span{
+	font-size: 16px;
+
+	font-size: 1rem;
+}
