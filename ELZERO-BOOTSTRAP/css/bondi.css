@@ -5,6 +5,10 @@
 
 body{
 	 font-family: "Roboto", sans-serif;
+
+
+   height: 10000px;
+
 }
 
 /*  Star Navbar  */
@@ -14,6 +18,10 @@ body{
 	background-color: var(--dark-color);
 }
 
+
+.navbar .navbar-nav .nav-link{
+	color: white;
+}
 
 
 /*  End Navbar  */

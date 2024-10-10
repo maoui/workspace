@@ -1,10 +1,27 @@
+
+:root{
+	--dark-color:#19283f;
+}
+
 body{
-	background: silver;
-	font-family: "Roboto Mono", monospace;
+	 font-family: "Roboto", sans-serif;
+
+
+   height: 10000px;
+
 }
 
-span{
-	font-size: 16px;
+/*  Star Navbar  */
 
-	font-size: 1rem;
+
+.navbar{
+	background-color: var(--dark-color);
 }
+
+
+.navbar .navbar-nav .nav-link{
+	color: white;
+}
+
+
+/*  End Navbar  */
