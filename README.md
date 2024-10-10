@@ -1,4 +1,10 @@
 "# workspace" 
+
+#* Bootstrap v5.1.3 (https://getbootstrap.com/)
+#Font Awesome Free 6.6.0 
+
+
+
 #index 1:
 
 #[01] Requirements Before Start.
